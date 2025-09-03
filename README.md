@@ -1,16 +1,57 @@
-## Hi there 👋
 
-<!--
-**tibane0/tibane0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">  
+<p>Visitor count</p>  
+<img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	
+# Hi, I'm **Nkateko Tibane**
+
+🔹 IT student passionate about **binary exploitation, reverse engineering, and low-level systems development**.  
+🔹 Currently learning **binary exploitation techniques** and diving into **kernel development & exploitation**.  
+🔹 Always building, breaking, and learning.
+
+---
+
+##  Current Project
+-  [**TibaneC2**](https://github.com/tibane0/TibaneC2) → A custom red team **Command & Control (C2) framework**  
+  -  Status: Under active development.  
+
+---
+
+## 🛠️ Languages and Tools  
+  
+<br>
+<p align="center">  
+  <!-- Programming & Scripting -->
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,docker,git" />
+</p>
+
+<p align="center">
+  <!-- Security / Exploitation Tools -->
+  <img src="https://img.shields.io/badge/-GDB-red?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-pwntools-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-BinaryNinja-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-radare2-black?style=for-the-badge&logo=radare&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Development -->
+  <img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
+  
+<hr>
+
+## Stats  
+  
+<br>  
+  
+<div align=center>  
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=tibane0&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="MyGitHub Stats" />  
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tibane0&theme=transparent&count_private=true&border_radius=10&locale=en" alt="" />  
+<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tibane0&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="My Most Used Languages" />  
+</div>  
+  
+
+
