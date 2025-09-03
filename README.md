@@ -1,11 +1,4 @@
 
-
-<div align="center">  
-<p>Visitor count</p>  
-<img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />  
-</div>
-
-	
 # Hi, I'm **Nkateko Tibane**
 
 🔹 IT student passionate about **binary exploitation, reverse engineering, and low-level systems development**.  
@@ -53,5 +46,8 @@
 <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tibane0&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="My Most Used Languages" />  
 </div>  
   
-
-
+---
+<div align="center">  
+<p>Visitor count</p>  
+<img src="https://profile-counter.glitch.me/tibane0/count.svg" alt="Visitor's Count" />  
+</div>
