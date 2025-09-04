@@ -6,6 +6,11 @@
 🔹 Always building, breaking, and learning.  
 
 ---
+ <a href="https://tibane0.github.io">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
+  </a>
+
+---
 
 ## Featured Projects
 - [**TibaneC2**](https://github.com/tibane0/TibaneC2) → A custom red team **Command & Control (C2) framework**  
@@ -30,11 +35,8 @@
 </p>
 
 ---
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,php,mysql,bash,linux,docker,git" /> </p><p align="center"> <img src="https://img.shields.io/badge/-GDB-red?style=for-the-badge&logo=gnu&logoColor=white" /> <img src="https://img.shields.io/badge/-pwntools-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/-BinaryNinja-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/-radare2-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Ghidra-green?style=for-the-badge" /> </p>
-  
----
 
-GitHub Stats
+## GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tibane0&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tibane0&theme=radical" alt="GitHub Streak" /> </p>
 
 ---
