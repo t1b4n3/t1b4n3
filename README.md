@@ -28,6 +28,9 @@
   <img src="https://img.shields.io/badge/-BinaryNinja-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-radare2-black?style=for-the-badge" />
 </p>
+
+---
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,php,mysql,bash,linux,docker,git" /> </p><p align="center"> <img src="https://img.shields.io/badge/-GDB-red?style=for-the-badge&logo=gnu&logoColor=white" /> <img src="https://img.shields.io/badge/-pwntools-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/-BinaryNinja-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/-radare2-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Ghidra-green?style=for-the-badge" /> </p>
   
 ---
 
