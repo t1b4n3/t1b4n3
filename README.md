@@ -25,6 +25,8 @@
 <p align="center">  
   <!-- Programming & Scripting -->
   <img src="https://skillicons.dev/icons?i=python,c,cpp,php,mysql,bash,linux,docker,git" />
+
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibane0&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />  
 </p>
 
 <p align="center">
