@@ -26,9 +26,9 @@
   <!-- Programming & Scripting -->
   <img src="https://skillicons.dev/icons?i=python,c,cpp,php,mysql,bash,linux,docker,git" />
 
+<p align="center">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibane0&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />  
 </p>
-
 <p align="center">
   <!-- Security / Exploitation Tools -->
   <img src="https://img.shields.io/badge/-GDB-red?style=for-the-badge&logo=gnu&logoColor=white" />
