@@ -7,10 +7,10 @@
 
 ---
 
-## Current Project
+## Featured Projects
 - [**TibaneC2**](https://github.com/tibane0/TibaneC2) → A custom red team **Command & Control (C2) framework**  
   - Status: Under active development  
-
+- [**Binary Exploitation CTF Writeups**](https://github.com/tibane0/ctf-pwn) - Writeups for binary exploitation (pwn) ctf challenges i solved 
 ---
 
 ## Languages and Tools  
@@ -31,20 +31,7 @@
   
 ---
 
-##  Stats  
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tibane0&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tibane0&theme=radical" alt="GitHub Streak" /> </p>
 
-<br>  
-<div align="center">  
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=tibane0&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />  
-  
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=tibane0&theme=transparent&count_private=true&border_radius=10&locale=en" alt="GitHub Streak" />  
-  
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibane0&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />  
-</div>  
-  
 ---
-
-<div align="center">  
-  <p>Visitor Count</p>  
-  <img src="https://komarev.com/ghpvc/?username=tibane0&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor counter" />  
-</div>
