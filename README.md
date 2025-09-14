@@ -1,12 +1,15 @@
-# Hi, I'm **Nkateko Tibane**
+# Hello World 
 
 🔹 IT student passionate about **binary exploitation, reverse engineering, and low-level systems development**.  
 🔹 Aspiring **Vulnerability Researcher and Exploit Developer**.  
 🔹 Currently learning **binary exploitation techniques** and diving into **kernel development & exploitation**.    
 
- <a href="https://tibane0.github.io">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
-  </a>
+---
+## BLOG
+
+<a href="https://tibane0.github.io">
+  <img src="https://img.shields.io/badge/💻%20My%20Blog-%23000000?style=for-the-badge&logo=rss&logoColor=00FF00" />
+</a>
 
 
 ---
