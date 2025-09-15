@@ -18,7 +18,9 @@
 ## Featured Projects
 - [**TibaneC2**](https://github.com/tibane0/TibaneC2) → A custom red team **Command & Control (C2) framework**  
   - Status: Under active development  
-- [**Binary Exploitation CTF Writeups**](https://github.com/tibane0/ctf-pwn) - Writeups and solutions for binary exploitation (pwn) ctf challenges I solved 
+- [**Binary Exploitation CTF Writeups**](https://github.com/tibane0/ctf-pwn) - Writeups and solutions for binary exploitation (pwn) ctf challenges I solved
+- [**Memory Visualaizer**](https://github.com/tibane0/memory-visualizer) - A process memory visualizer project to help me learn x86-64 assembly.
+  - Status: Under active development
 ---
 
 ## Languages and Tools  
