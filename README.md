@@ -3,7 +3,7 @@
 🔹 IT student passionate about **binary exploitation, reverse engineering, and low-level systems development**.  
 🔹 Aspiring **Vulnerability Researcher and Exploit Developer**.  
 🔹 Currently learning **binary exploitation techniques** and diving into **kernel development & exploitation**.    
-
+🔹 CTF player
 ---
 ## BLOG
 
