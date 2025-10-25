@@ -7,13 +7,13 @@
 ---
 ## BLOG
 
-[tibane0.github.io](https://tibane0.github.io/) — posts on exploitation, reversing, and CTFs.
+[tibane0.github.io](https://t1b4n3.github.io/) — posts on exploitation, reversing, and CTFs.
 
 ---
 
 
 ## Featured Projects
-- [**TibaneC2**](https://github.com/tibane0/TibaneC2) → A custom red team **Command & Control (C2) framework**  
+- [**TibaneC2**](https://github.com/t1b4n3/TibaneC2) → A custom red team **Command & Control (C2) framework**  
   - Status: In active development  
 ---
 
