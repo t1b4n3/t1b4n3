@@ -7,7 +7,7 @@
 ---
 ## BLOG
 
-[tibane0.github.io](https://t1b4n3.github.io/) — posts on exploitation, reversing, and CTFs.
+[t1b4n3.github.io](https://t1b4n3.github.io/) — posts on exploitation, reversing, and CTFs.
 
 ---
 
