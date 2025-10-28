@@ -1,6 +1,6 @@
 # Hello World 
 
-🔹 IT student passionate about **binary exploitation, reverse engineering, malware development and low-level systems development** | CTF player.  
+🔹 IT student passionate about **binary exploitation, reverse engineering and low-level systems development**  
 🔹 Aspiring **Vulnerability Researcher and Exploit Developer**.  
 🔹 Currently learning advanced **binary exploitation techniques** and diving into **kernel development & exploitation**.      
 
