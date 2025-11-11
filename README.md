@@ -14,8 +14,8 @@
 
 ## Featured Projects
 - [**TibaneC2**](https://github.com/t1b4n3/TibaneC2) -> A custom red team **Command & Control (C2) framework**  
-- [**pwntracer**](https://github.com/t1b4n3/pwntrace) -> Trace and control syscalls to accelerate exploit development, reverse engineering, and malware analysis.
-  - **UNDER DEVELOPMENT**
+- [**pwntrace**](https://github.com/t1b4n3/pwntrace) -> Trace and control syscalls to accelerate exploit development, reverse engineering, and malware analysis.
+  - UNDER DEVELOPMENT
   
 ---
 
